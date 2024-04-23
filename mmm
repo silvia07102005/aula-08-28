@@ -1,1 +1,22 @@
-
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Signos do Zodíaco</h1>
+        <p>Selecione uma opção:</p>
+        <ul>
+            <li><a href="pagina1.html">Signo 1</a></li>
+            <li><a href="pagina2.html">Signo 2</a></li>
+            <li><a href="login.html">Acesso Restrito</a></li>
+        </ul>
+    </div>
+</body>
+</html>
+```
